@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I’m Lucas Couto. I’m new here. On this profile, I will showcase my skills and knowledge regarding technology as I acquire them. 👋
 
 <!--
 **coutolucasdev/coutolucasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
