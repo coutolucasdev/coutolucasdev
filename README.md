@@ -1,16 +1,17 @@
-## Hi there I’m Lucas Couto. I’m new here. On this profile, I will showcase my skills and knowledge regarding technology as I acquire them. 👋
+# Olá, eu sou o Lucas 👋
 
-<!--
-**coutolucasdev/coutolucasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud Engineer em formação, com certificação **AWS Certified Cloud Practitioner** e formação AWS re/Start. Antes de cloud, atuei por anos em vendas, gestão e treinamento de equipes, e hoje uso essa bagagem para explicar e documentar o que construo.
 
-Here are some ideas to get you started:
+## O que estou construindo
+Uma trilha de projetos em AWS com Terraform, sempre com README, diagrama e instruções de custo e remoção:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✅ [Site estático com S3 + CloudFront](https://github.com/coutolucasdev/aws-static-site-terraform)
+- 🔜 VPC do zero com sub-redes públicas e privadas
+- 🔜 Automação com Python e boto3
+- 🔜 Monitoramento com CloudWatch
+
+## Tecnologias
+AWS · Terraform · Linux · Redes · Python · Git
+
+## Contato
+[LinkedIn](https://www.linkedin.com/in/lucascoutoaraujo)
