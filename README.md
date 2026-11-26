@@ -6,7 +6,8 @@ Cloud Engineer em formação, com certificação **AWS Certified Cloud Practitio
 Uma trilha de projetos em AWS com Terraform, sempre com README, diagrama e instruções de custo e remoção:
 
 - ✅ [Site estático com S3 + CloudFront](https://github.com/coutolucasdev/aws-static-site-terraform)
-- 🔜 VPC do zero com sub-redes públicas e privadas
+- ✅ [VPC com sub-redes públicas e privadas](https://github.com/coutolucasdev/aws-vpc-terraform)
+- 🔜 Servidor web (EC2) na sub-rede pública
 - 🔜 Automação com Python e boto3
 - 🔜 Monitoramento com CloudWatch
 
